@@ -1,2 +1,3 @@
 # ATMGUI
 These are for demonstration purposes only.This simulates real-world ATM functions, implement basic functions such as deposit, withdrawal, 
+Read Timsina_Assignment_mod_5 for more info...
